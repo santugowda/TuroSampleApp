@@ -8,6 +8,7 @@
 
     <string name="enter_food_type">Pizza, Beer</string>
     <string name="location_hint">Please enter an address</string>
+    <string name="title_text">What are you craving for ?</string>
     <string name="restaurant_name">Restaurant Name</string>
     <string name="phone_number">Phone Number : </string>
     <string name="ratings_count">Ratings :  </string>
