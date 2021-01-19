@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/UserSearchFragment">
+
+    <fragment
+        android:id="@+id/UserSearchFragment"
+        android:name="com.example.turosampleapp.UserSearchFragment"
+        android:label="@string/user_search_fragment_label"
+        tools:layout="@layout/fragment_user_search">
+
+        <action
+            android:id="@+id/action_UserSearchFragment_to_RestaurantListFragment"
+            app:destination="@id/RestaurantListFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/RestaurantListFragment"
+        android:name="com.example.turosampleapp.view.fragments.RestaurantListFragment"
+        android:label="@string/restaurant_list_fragment_label"
+        tools:layout="@layout/fragment_restaurant_list">
+
+        <action
+            android:id="@+id/action_RestaurantListFragment_to_UserSearchFragment"
+            app:destination="@id/UserSearchFragment" />
+
+        <action
+            android:id="@+id/action_RestaurantListFragment_to_RestaurantDetailFragment"
+            app:destination="@id/UserSearchFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/RestaurantDetailFragment"
+        android:name="com.example.turosampleapp.view.fragments.RestaurantDetailFragment"
+        android:label="@string/restaurant_detail_fragment_label"
+        tools:layout="@layout/fragment_restaurant_details">
+        <action
+            android:id="@+id/action_RestaurantDetailFragment_to_RestaurantListFragment"
+            app:destination="@id/RestaurantListFragment" />
+    </fragment>
+</navigation>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TuroSampleApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="user_search_fragment_label">User Search Fragment</string>
+    <string name="restaurant_list_fragment_label">Restaurant List Fragment</string>
+    <string name="restaurant_detail_fragment_label">Restaurant Detail Fragment</string>
+
+    <string name="enter_food_type">Pizza, Beer</string>
+    <string name="location_hint">Please enter an address</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="phone_number">Phone Number : </string>
+    <string name="ratings_count">Ratings :  </string>
+    <string name="open">Open</string>
+    <string name="closed">Close</string>
+    <string name="result">Search</string>
+</resources>

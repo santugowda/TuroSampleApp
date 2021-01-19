@@ -1,0 +1,838 @@
+{
+    "businesses": [
+        {
+            "id": "7vqUGG9ZBZKOjOFPs8lEgQ",
+            "alias": "city-beer-store-san-francisco",
+            "name": "City Beer Store",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SlHnVec1V8mdyiXiBjU9Zg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/city-beer-store-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 770,
+            "categories": [
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.778502,
+                "longitude": -122.4121893
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1148 Mission St",
+                "address2": null,
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94103",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1148 Mission St",
+                    "San Francisco, CA 94103"
+                ]
+            },
+            "phone": "+14155031033",
+            "display_phone": "(415) 503-1033",
+            "distance": 1523.5978732320946
+        },
+        {
+            "id": "mbmJRdYFNUKeV_toR0KfVA",
+            "alias": "hopwater-distribution-san-francisco",
+            "name": "Hopwater Distribution",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sD-l8q-0Rs6P8RmwMwTAYA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hopwater-distribution-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 713,
+            "categories": [
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7899538528782,
+                "longitude": -122.411338984966
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "850 Bush St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94108",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "850 Bush St",
+                    "San Francisco, CA 94108"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 780.4821438935633
+        },
+        {
+            "id": "Q50kulo0e3wzDbz_EcoNfA",
+            "alias": "holycraft-brewery-taproom-san-francisco",
+            "name": "HolyCraft Brewery Taproom",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Y1NM7-LTrDlOBPb4notYxQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/holycraft-brewery-taproom-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 113,
+            "categories": [
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                },
+                {
+                    "alias": "pubs",
+                    "title": "Pubs"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.79724,
+                "longitude": -122.41
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "787 Broadway St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94133",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "787 Broadway St",
+                    "San Francisco, CA 94133"
+                ]
+            },
+            "phone": "+14152690738",
+            "display_phone": "(415) 269-0738",
+            "distance": 1065.6852075103686
+        },
+        {
+            "id": "Bn_ZTsIobTwOaSUy2pm-nw",
+            "alias": "local-brewing-co-san-francisco-2",
+            "name": "Local Brewing Co",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qFdPnOPJSdcQ0R-zgkyyZg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/local-brewing-co-san-francisco-2?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 158,
+            "categories": [
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.77648,
+                "longitude": -122.39682
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "69 Bluxome St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94107",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "69 Bluxome St",
+                    "San Francisco, CA 94107"
+                ]
+            },
+            "phone": "+14159326702",
+            "display_phone": "(415) 932-6702",
+            "distance": 1556.0197836052441
+        },
+        {
+            "id": "t5OypGYSwYIXKjkEQx3BNw",
+            "alias": "hogwash-san-francisco",
+            "name": "Hogwash",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_NOkpA8lzI6pohNf_MBlag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hogwash-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 1052,
+            "categories": [
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7891754,
+                "longitude": -122.4099292
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "582 Sutter St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "582 Sutter St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+14153615500",
+            "display_phone": "(415) 361-5500",
+            "distance": 660.6775870656091
+        },
+        {
+            "id": "85WYz95yVjZBtWoNdLR8_A",
+            "alias": "3rd-street-tap-room-san-francisco",
+            "name": "3rd Street Tap Room",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SXrGpRlnUvbP8r6CtCJzRw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/3rd-street-tap-room-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 49,
+            "categories": [
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7845768,
+                "longitude": -122.3997251
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "251 3rd St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94103",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "251 3rd St",
+                    "San Francisco, CA 94103"
+                ]
+            },
+            "phone": "+15105076528",
+            "display_phone": "(510) 507-6528",
+            "distance": 628.7048130374324
+        },
+        {
+            "id": "lvi8XsOdYTz2K3vhCCwe5Q",
+            "alias": "cellarmaker-brewing-company-san-francisco",
+            "name": "Cellarmaker Brewing Company",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oa630VwOQ9uc5p2ZRqYNRQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cellarmaker-brewing-company-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 455,
+            "categories": [
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.777217,
+                "longitude": -122.410766
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1150 Howard St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94103",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1150 Howard St",
+                    "San Francisco, CA 94103"
+                ]
+            },
+            "phone": "+14158633940",
+            "display_phone": "(415) 863-3940",
+            "distance": 1582.7096418799217
+        },
+        {
+            "id": "2FhkLW_EwD-CwOzteklkIA",
+            "alias": "21st-amendment-brewery-san-francisco-3",
+            "name": "21st Amendment Brewery",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lIumvLLRsCajjzoL9gFcag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/21st-amendment-brewery-san-francisco-3?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 2477,
+            "categories": [
+                {
+                    "alias": "brewpubs",
+                    "title": "Brewpubs"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.78253,
+                "longitude": -122.39249
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "563 2nd St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94107",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "563 2nd St",
+                    "San Francisco, CA 94107"
+                ]
+            },
+            "phone": "+14153690900",
+            "display_phone": "(415) 369-0900",
+            "distance": 1197.4035589621526
+        },
+        {
+            "id": "JIrpgjojJYGmZmRZh9HD0Q",
+            "alias": "dokkaebier-san-francisco",
+            "name": "Dokkaebier",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5caHGNZ4I2qPcCW4Bj7VwQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dokkaebier-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 24,
+            "categories": [
+                {
+                    "alias": "brewpubs",
+                    "title": "Brewpubs"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.792865,
+                "longitude": -122.421444
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "location": {
+                "address1": "1735 Polk St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94109",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1735 Polk St",
+                    "San Francisco, CA 94109"
+                ]
+            },
+            "phone": "+14156253203",
+            "display_phone": "(415) 625-3203",
+            "distance": 1693.277400799153
+        },
+        {
+            "id": "AoxdFkE06fQs_ZP0S0VRPw",
+            "alias": "hops-and-hominy-san-francisco",
+            "name": "Hops & Hominy",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4Z6aoVQ3fnpxdtKZyue1Ww/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hops-and-hominy-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 2114,
+            "categories": [
+                {
+                    "alias": "southern",
+                    "title": "Southern"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.789312,
+                "longitude": -122.405731
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1 Tillman Pl",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94108",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1 Tillman Pl",
+                    "San Francisco, CA 94108"
+                ]
+            },
+            "phone": "+14153736341",
+            "display_phone": "(415) 373-6341",
+            "distance": 293.5728873073749
+        },
+        {
+            "id": "tOsN-3tWztCG5kZSAf2YKw",
+            "alias": "liquid-gold-san-francisco",
+            "name": "Liquid Gold",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mIRDEw8N2ekIFSnqrtQ4CQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/liquid-gold-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 172,
+            "categories": [
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.790641784668,
+                "longitude": -122.417060852051
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1040 Hyde St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94109",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1040 Hyde St",
+                    "San Francisco, CA 94109"
+                ]
+            },
+            "phone": "+14156605142",
+            "display_phone": "(415) 660-5142",
+            "distance": 1299.8324242814006
+        },
+        {
+            "id": "F2gF7VJpmUn1vXcIwkL_Yw",
+            "alias": "golden-gate-tap-room-san-francisco",
+            "name": "Golden Gate Tap Room",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7XMKmPVtcTwnX6o5p_2rnQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/golden-gate-tap-room-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 959,
+            "categories": [
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.7889308357376,
+                "longitude": -122.408675257603
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "449 Powell St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "449 Powell St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+14156779999",
+            "display_phone": "(415) 677-9999",
+            "distance": 555.6354949075113
+        },
+        {
+            "id": "wYwvJUPZT7PPl7TzoGKS9Q",
+            "alias": "ales-unlimited-san-francisco",
+            "name": "Ales Unlimited",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IY4zaa-g72v_3bY2RQn0pQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ales-unlimited-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 95,
+            "categories": [
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7925416082144,
+                "longitude": -122.432835549116
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2398 Webster St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94115",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2398 Webster St",
+                    "San Francisco, CA 94115"
+                ]
+            },
+            "phone": "+14153466849",
+            "display_phone": "(415) 346-6849",
+            "distance": 2679.9646741777356
+        },
+        {
+            "id": "olruiQZLHO3mpKf8sLVijQ",
+            "alias": "beer-basement-san-francisco-2",
+            "name": "Beer Basement",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IeDJzCjQlUZRXisb7SdNjg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/beer-basement-san-francisco-2?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 72,
+            "categories": [
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.78298,
+                "longitude": -122.4156
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "222 Hyde St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "222 Hyde St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+14155988158",
+            "display_phone": "(415) 598-8158",
+            "distance": 1375.6988195218476
+        },
+        {
+            "id": "pCQCDx-1yvA1jiw0_mI7XQ",
+            "alias": "cask-san-francisco",
+            "name": "Cask",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/huLiawNos3WclYWlu6GWqQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cask-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 188,
+            "categories": [
+                {
+                    "alias": "beer_and_wine",
+                    "title": "Beer, Wine & Spirits"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7873589,
+                "longitude": -122.4031801
+            },
+            "transactions": [],
+            "price": "$$$",
+            "location": {
+                "address1": "17 3rd St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94103",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "17 3rd St",
+                    "San Francisco, CA 94103"
+                ]
+            },
+            "phone": "+14154244844",
+            "display_phone": "(415) 424-4844",
+            "distance": 289.5732683286687
+        },
+        {
+            "id": "v6iAL-bM8rjkL1E7jIItXw",
+            "alias": "willkommen-san-francisco-3",
+            "name": "Willkommen",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KCHuryc8oFJCGZsC7v3Iwg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/willkommen-san-francisco-3?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 102,
+            "categories": [
+                {
+                    "alias": "german",
+                    "title": "German"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                },
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7662780850621,
+                "longitude": -122.430849708617
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2198 Market St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94114",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2198 Market St",
+                    "San Francisco, CA 94114"
+                ]
+            },
+            "phone": "+14157669225",
+            "display_phone": "(415) 766-9225",
+            "distance": 3618.250804818251
+        },
+        {
+            "id": "oAGewjsrHQpnrmRYi8LVIw",
+            "alias": "the-beer-hall-san-francisco",
+            "name": "The Beer Hall",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/drrvF6-CygRgkejetlKo6w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-beer-hall-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 173,
+            "categories": [
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7767002424281,
+                "longitude": -122.417983369546
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1 Polk St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1 Polk St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+14158007416",
+            "display_phone": "(415) 800-7416",
+            "distance": 1999.2336723247702
+        },
+        {
+            "id": "PqeHQAMWUWzyL8qsmHltoQ",
+            "alias": "bartlett-hall-san-francisco",
+            "name": "Bartlett Hall",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Je6sl5pFUdkbqNkgjw3dBQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bartlett-hall-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 873,
+            "categories": [
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                },
+                {
+                    "alias": "sportsbars",
+                    "title": "Sports Bars"
+                },
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 37.7863779183055,
+                "longitude": -122.408723160625
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "242 O'Farrell St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "242 O'Farrell St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+14154334332",
+            "display_phone": "(415) 433-4332",
+            "distance": 671.9171772363276
+        },
+        {
+            "id": "nBo7CETnSyrzIoGbRnhuJA",
+            "alias": "anchor-brewing-company-san-francisco",
+            "name": "Anchor Brewing Company",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/R1cvHbsw8MGSC3YbX5ep-w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/anchor-brewing-company-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 727,
+            "categories": [
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.76311,
+                "longitude": -122.40095
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1705 Mariposa St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94107",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1705 Mariposa St",
+                    "San Francisco, CA 94107"
+                ]
+            },
+            "phone": "+14158638350",
+            "display_phone": "(415) 863-8350",
+            "distance": 2954.502681606104
+        },
+        {
+            "id": "40gAyCmMKcQY_L-_YC0Szw",
+            "alias": "standard-deviant-brewing-san-francisco",
+            "name": "Standard Deviant Brewing",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mYYU2vzwBMAuwEzNWp_ZoA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/standard-deviant-brewing-san-francisco?adjust_creative=51SsU9NI_tuXrEuO3-2lqg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=51SsU9NI_tuXrEuO3-2lqg",
+            "review_count": 147,
+            "categories": [
+                {
+                    "alias": "breweries",
+                    "title": "Breweries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.76849,
+                "longitude": -122.41949
+            },
+            "transactions": [],
+            "price": "$",
+            "location": {
+                "address1": "280 14th St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94103",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "280 14th St",
+                    "San Francisco, CA 94103"
+                ]
+            },
+            "phone": "+14155902550",
+            "display_phone": "(415) 590-2550",
+            "distance": 2804.111315522877
+        }
+    ],
+    "total": 1900,
+    "region": {
+        "center": {
+            "longitude": -122.40245819091797,
+            "latitude": 37.789842153990776
+        }
+    }
+}
